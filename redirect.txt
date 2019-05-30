@@ -1,0 +1,4 @@
+Hi;
+My name is Abdikarim Ibrahim.
+I'm practicing something call redirection and files in C.
+I'm so excited about it.
